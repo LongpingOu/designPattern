@@ -1,4 +1,4 @@
-package com.ou.cn.ObserverPattern;
+package com.ou.cn.observerPattern;
 
 /**
  * description: WeiChat 微信群 也就是主题

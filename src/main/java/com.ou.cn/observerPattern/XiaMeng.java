@@ -1,7 +1,4 @@
-package com.ou.cn.ObserverPattern;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.ou.cn.observerPattern;
 
 /**
  * description: Linzi 具体职员林子，也就是具体的观察者<br>
@@ -9,11 +6,11 @@ import java.util.List;
  * author: 夏林梦子 <br>
  */
 
-public class LinZi implements Employee {
+public class XiaMeng implements Employee {
 
     private String name;
 
-    public LinZi(String name) {
+    public XiaMeng(String name) {
         this.name = name;
     }
 
@@ -36,6 +33,4 @@ public class LinZi implements Employee {
     public void deleteWeiChat(WeiChat weiChat) {
         weiChat.deleteEmployee(this);
     }
-
-
 }

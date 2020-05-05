@@ -1,4 +1,4 @@
-package com.ou.cn.ObserverPattern;
+package com.ou.cn.observerPattern;
 
 /**
  * description: ObseverMain <br>

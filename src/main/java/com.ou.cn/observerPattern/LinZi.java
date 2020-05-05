@@ -1,4 +1,4 @@
-package com.ou.cn.ObserverPattern;
+package com.ou.cn.observerPattern;
 
 /**
  * description: Linzi 具体职员林子，也就是具体的观察者<br>
@@ -6,11 +6,11 @@ package com.ou.cn.ObserverPattern;
  * author: 夏林梦子 <br>
  */
 
-public class XiaMeng implements Employee {
+public class LinZi implements Employee {
 
     private String name;
 
-    public XiaMeng(String name) {
+    public LinZi(String name) {
         this.name = name;
     }
 
@@ -33,4 +33,6 @@ public class XiaMeng implements Employee {
     public void deleteWeiChat(WeiChat weiChat) {
         weiChat.deleteEmployee(this);
     }
+
+
 }

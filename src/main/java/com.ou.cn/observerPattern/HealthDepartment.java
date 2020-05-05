@@ -1,7 +1,6 @@
-package com.ou.cn.ObserverPattern;
+package com.ou.cn.observerPattern;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 /**

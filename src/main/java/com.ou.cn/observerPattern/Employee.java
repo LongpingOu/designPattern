@@ -1,4 +1,4 @@
-package com.ou.cn.ObserverPattern;
+package com.ou.cn.observerPattern;
 
 /**
  * description: Employee 公司职员，也就是观察者<br>
