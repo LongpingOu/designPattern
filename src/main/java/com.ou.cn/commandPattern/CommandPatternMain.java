@@ -20,6 +20,14 @@ public class CommandPatternMain {
         teacher.setCommand(command);
         // 发布布置作业的命令
         teacher.arrangeWork();
+
+
+        //输出：
+        /*
+        老师，我们收到，正在执行：做数学作业！
+         */
+
+        //可以看到，老师没有对学生直接发布作业，但是学生可以正常收到布置作业的信息了
     }
 
 }
