@@ -57,5 +57,6 @@
 
     我们的额设计模式基本都是围绕这些原则来设计的，不同的业务场景，可以用不同的设计模式。
 
-**作者：夏林梦子
-链接：https://github.com/LongpingOu/designPattern**
+作者：夏林梦子
+
+链接：https://github.com/LongpingOu/designPattern
