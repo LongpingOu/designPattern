@@ -14,6 +14,12 @@ public abstract class Shape {
         this.drawApi = drawApi;
     }
 
+    /**
+     * description: draw 绘画操作
+     * return void
+     * author: 夏林梦子
+     * date: 2020/5/10 22:29
+     */
     public abstract void draw();
 
 }
